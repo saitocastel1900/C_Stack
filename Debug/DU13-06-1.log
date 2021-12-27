@@ -1,0 +1,16 @@
+﻿  DU13-06-1.c
+C:\Users\2022019\source\repos\DU13-06-1\DU13-06-1.c(47,11): warning C4098: 'POP': 戻り値の型が 'void' で宣言された関数が、値を返しました。
+C:\Users\2022019\source\repos\DU13-06-1\DU13-06-1.c(77,18): warning C4047: '関数': 間接参照のレベルが 'STACK *' と 'STACK (*)[10]' で異なっています。
+C:\Users\2022019\source\repos\DU13-06-1\DU13-06-1.c(77,12): warning C4024: 'initStack': の型が 1 の仮引数および実引数と異なります。
+C:\Users\2022019\source\repos\DU13-06-1\DU13-06-1.c(93,15): warning C4047: '関数': 間接参照のレベルが 'STACK *' と 'STACK (*)[10]' で異なっています。
+C:\Users\2022019\source\repos\DU13-06-1\DU13-06-1.c(93,9): warning C4024: 'PUSH': の型が 1 の仮引数および実引数と異なります。
+C:\Users\2022019\source\repos\DU13-06-1\DU13-06-1.c(100,14): warning C4047: '関数': 間接参照のレベルが 'STACK *' と 'STACK (*)[10]' で異なっています。
+C:\Users\2022019\source\repos\DU13-06-1\DU13-06-1.c(100,8): warning C4024: 'POP': の型が 1 の仮引数および実引数と異なります。
+C:\Users\2022019\source\repos\DU13-06-1\DU13-06-1.c(107,21): warning C4047: '関数': 間接参照のレベルが 'STACK *' と 'STACK (*)[10]' で異なっています。
+C:\Users\2022019\source\repos\DU13-06-1\DU13-06-1.c(107,15): warning C4024: 'stackPrint': の型が 1 の仮引数および実引数と異なります。
+C:\Users\2022019\source\repos\DU13-06-1\DU13-06-1.c(127,22): warning C4047: '関数': 間接参照のレベルが 'STACK *' と 'STACK (*)[10]' で異なっています。
+C:\Users\2022019\source\repos\DU13-06-1\DU13-06-1.c(127,16): warning C4024: 'stackPrint': の型が 1 の仮引数および実引数と異なります。
+C:\Users\2022019\source\repos\DU13-06-1\DU13-06-1.c(84,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\2022019\source\repos\DU13-06-1\DU13-06-1.c(92,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\2022019\source\repos\DU13-06-1\DU13-06-1.c(115,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  DU13-06-1.vcxproj -> C:\Users\2022019\source\repos\DU13-06-1\Debug\DU13-06-1.exe
